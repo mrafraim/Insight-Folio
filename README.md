@@ -1,8 +1,9 @@
 # Insight-Folio: Unveiling Data's Hidden Treasures
+ ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+ [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/mrafraim?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/mrafraim) 
 
-[![Data Science](https://img.shields.io/badge/Data%20Science-%F0%9F%93%8A%F0%9F%94%8D-brightgreen)](https://github.com/mrafraim)
-[![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%F0%9F%93%88%F0%9F%93%89-blue)](https://github.com/mrafraim)
-[![Visualizations](https://img.shields.io/badge/Visualizations-%F0%9F%93%8A%F0%9F%93%9D-orange)](https://github.com/mrafraim)
+
 
 Welcome to InsightFolio, a curated repository showcasing my passion for data science and data analytics. Explore a world where data transforms into captivating insights, and numbers tell powerful stories.
 
