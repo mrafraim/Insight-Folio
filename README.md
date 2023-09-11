@@ -29,7 +29,7 @@ Welcome to InsightFolio, a curated repository showcasing my passion for data sci
 
 ## 📜 License
 
-This repository is open-source under the [MIT License](LICENSE) - [View License](LICENSE).
+This repository is open-source under the [MIT License](LICENSE.txt) - [View License](LICENSE.txt).
 
 ---
 
