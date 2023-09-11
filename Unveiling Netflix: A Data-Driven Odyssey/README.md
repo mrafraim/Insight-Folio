@@ -1,4 +1,7 @@
 # Unveiling Netflix: A Data-Driven Odyssey
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/mrafraim?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/mrafraim) 
+
 
 ![Netflix_Logo_PMS](https://github.com/mrafraim/Insight-Folio/assets/129061518/36af744d-a3fa-4144-b74c-75c4f896e09f)
 
