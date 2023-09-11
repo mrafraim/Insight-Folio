@@ -51,6 +51,6 @@ Feel free to delve into the individual analysis notebooks for a deeper understan
 
 *For a detailed analysis of each aspect, refer to the respective analysis notebooks.*
 <p align="center">
-  &copy; 2023 Mostafizur Rahman
+  &copy; 2023 Mostafizur Rahman. All rights reserved.
 </p>
 
