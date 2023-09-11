@@ -20,7 +20,7 @@ Welcome to InsightFolio, a curated repository showcasing my passion for data sci
 - **Continuous Evolution**: InsightFolio is a living portfolio, continuously evolving with each new project, reflecting my commitment to data excellence.
 
 ## 🌟 Featured Projects
-1. [Unveiling Netflix: A Data-Driven Odyssey](#) - Explore the world of Netflix through data analytcis and uncover hidden insights.
+1. [Unveiling Netflix: A Data-Driven Odyssey](https://github.com/mrafraim/Insight-Folio/tree/main/Unveiling%20Netflix:%20A%20Data-Driven%20Odyssey) - Explore the world of Netflix through data analytcis and uncover hidden insights.
 
 ## 🌐 Connect & Collaborate
 
