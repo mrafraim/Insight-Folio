@@ -50,4 +50,7 @@ Feel free to delve into the individual analysis notebooks for a deeper understan
 [Mostafizur Rahman](https://www.linkedin.com/in/mostafizrahman10)
 
 *For a detailed analysis of each aspect, refer to the respective analysis notebooks.*
+<p align="center">
+  &copy; 2023 Mostafizur Rahman
+</p>
 
